@@ -1,1 +1,1 @@
-# https-vendorrisk.seedfi.com-
+# vendorrisk.seedfi.com-
